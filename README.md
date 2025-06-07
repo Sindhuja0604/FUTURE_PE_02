@@ -48,7 +48,7 @@ The goal was to explore how AI models interpret visual content and generate desc
 
 ---
 ## Final Output 
-watch the Report: 📄 [View Project Report](https://github.com/Sindhuja0604/FUTURE_PE_01/blob/main/ImageCaptioning_Report.pdf)
+watch the Report: 📄 [View Project Report](https://github.com/Sindhuja0604/FUTURE_PE_02.git)
 
 ## 🚧 Challenges Faced
 
